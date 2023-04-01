@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1680279012 source:c:\users\ivana\onedrive\escritorio\random\main.cpp
+	<iostream>
+	<allegro.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<map>
+	<fstream>
+
